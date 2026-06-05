@@ -25,7 +25,7 @@ export const botConfig = {
     activities: [
       {
         // Text users will see (example: "Playing /help | Titan Bot").
-        name: "FrostySMP",
+        name: "made for the FrostySMP community",
         // Activity type number (0 = Playing).
         type: 0, 
       },
@@ -89,7 +89,7 @@ export const botConfig = {
     colors: {
       // Main brand colors.
       primary: "#4FC3F7", 
-      secondary: "##0F172A", 
+      secondary: "#0F172A", 
 
       // Standard status colors for success/error/warning/info messages.
       success: "#57F287", 
